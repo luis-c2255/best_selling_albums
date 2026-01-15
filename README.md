@@ -6,3 +6,4 @@ DATE: 15/01/2026
 I analyzed the "Best Selling Albums of All Time" to decode the patterns behind music's greatest commercial successes.
 
 # GENRE DOMINANCE
+<div class="flourish-embed flourish-table" data-src="visualisation/27226212"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/27226212/thumbnail" width="100%" alt="table visualization" /></noscript></div>
