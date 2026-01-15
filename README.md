@@ -6,4 +6,8 @@ DATE: 15/01/2026
 I analyzed the "Best Selling Albums of All Time" to decode the patterns behind music's greatest commercial successes.
 
 # GENRE DOMINANCE
-<div class="flourish-embed flourish-table" data-src="visualisation/27226212"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/27226212/thumbnail" width="100%" alt="table visualization" /></noscript></div>
+<iframe height="300" style="width: 100%;" scrolling="no" title="Untitled" src="https://codepen.io/Luis-Modesto/embed/WbxRXrN?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true">
+      See the Pen <a href="https://codepen.io/Luis-Modesto/pen/WbxRXrN">
+  Untitled</a> by Luis Modesto (<a href="https://codepen.io/Luis-Modesto">@Luis-Modesto</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+      </iframe>
